@@ -5,7 +5,6 @@ Download from: [MEGA.nz](https://mega.nz/file/3YpzVAgS#mdrQ2Y8Hrh24-sT_ytH38km8k
 Required for full functionality: [Space Engineers DLC unlocker](https://github.com/Lamer87/Space_Engineers_DLC_unlocker)
 
 These are the files you need to play the Frostbite Scenario, if you haven't bought the DLC.  
-If you downloaded the cracked game, you don't need these files.
 
 Currently updated to the 1.199 patch (Heavy Industry), the scenario requires 96mb unpacked.
 
