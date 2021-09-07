@@ -10,4 +10,4 @@ Currently updated to the 1.199 patch (Heavy Industry), the scenario requires 96m
 
 Tested and running on the original game, with Frostbite DLC disabled from steam settings.
 
-If there are any problems please contact me and I will try to solve them.
+If there are any problems please open a discussion and I will try to solve them.
