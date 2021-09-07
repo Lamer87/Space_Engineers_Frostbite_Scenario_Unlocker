@@ -7,7 +7,7 @@ Required for full functionality: [SE DLC Unlocker](https://github.com/Lamer87/Sp
 These are the files you need to play the Frostbite Scenario, if you haven't bought the DLC.  
 If you downloaded the cracked game, you don't need these files.
 
-Currently updated to the 1.199 patch (Heavy Industry), the scenario requires 100mb unpacked.
+Currently updated to the 1.199 patch (Heavy Industry), the scenario requires 96mb unpacked.
 
 Tested and running on the original game, with Frostbite DLC disabled from steam settings.
 
