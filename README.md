@@ -11,6 +11,5 @@ These are the files you need to play the Frostbite Scenario, if you haven't boug
 
 Currently updated to the 1.199 patch (Heavy Industry), the scenario requires 96mb unpacked.
 
-Tested and running on the original game, with Frostbite DLC disabled from steam settings.
-
-If there are any problems please open a discussion and I will try to solve them.
+Please test it and let me know if it works for you or is still blocked in the scenario choice menu, and I will try to solve.  
+I have the legitimate one so it is possible that some other modification is required, or maybe not...
