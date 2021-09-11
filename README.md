@@ -1,7 +1,7 @@
 # Space Engineers Frostbite Scenario unlocker
 Frostbite Scenario Unlocked
 
-Download from: [MEGA.nz](https://mega.nz/file/3YpzVAgS#mdrQ2Y8Hrh24-sT_ytH38km8kekBj7PByU36CZKIrSw) (15,2mb rar archive)  
+Download from: [MEGA.nz](https://mega.nz/file/3YpzVAgS#mdrQ2Y8Hrh24-sT_ytH38km8kekBj7PByU36CZKIrSw) (15,2mb archive, 96,5mb unpacked)  
 Required for full functionality: [Space Engineers DLC unlocker](https://github.com/Lamer87/Space_Engineers_DLC_unlocker)  
 
 Extract the "Content" folder in your game directory.  
