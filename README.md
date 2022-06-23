@@ -9,7 +9,7 @@ Example: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\
 
 These are the files you need to play the Frostbite Scenario, if you haven't bought the DLC.  
 
-Currently updated to the 1.199 update (Heavy Industry).
+Currently updated to the 1.201 update.
 
 Please test it and let me know if it works for you or is still blocked in the scenario choice menu, and I will try to solve.  
 I have the legitimate one so it is possible that some other modification is required, or maybe not...
