@@ -1,10 +1,7 @@
 ## Space Engineers `Frostbite Scenario` Unlocker
 Now you can choose it from the scenario menù!  
 
-Compatible with all versions from 1.194 onwards.
-
-These are the files you need to play the Frostbite Scenario, if you haven't bought the DLC.  
-Please let me know if it works in discussions.  
+Compatible with all game versions from **1.194** onwards.
 
 ---
 
@@ -18,5 +15,6 @@ Example: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\
 
 ---
 
+These are the files you need to play the Frostbite Scenario, if you haven't bought the DLC.  
 Please test it and let me know if it works for you or it's still blocked in the scenario choice menu, and I will try to solve.  
-I have the legitimate one so it is possible that some other modification is required.
+I have the legitimate one so it's possible that some other modification is required.
