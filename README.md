@@ -17,5 +17,3 @@ Example: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\
 ---
 
 These are the files you need to play the Frostbite Scenario, if you haven't bought the DLC.  
-Please test it and let me know if it works for you or it's still blocked in the scenario choice menu, and I will try to solve.  
-It's possible that some other modification is required.
