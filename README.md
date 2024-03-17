@@ -12,7 +12,7 @@ Compatible with all game versions from **1.194** onwards.
     - Extract the "Content" folder in your game directory.  
 Example: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\
 
-  - Required for full functionality: [Space Engineers DLC unlocker](https://github.com/Lamer87/Space_Engineers_DLC_unlocker)
+  - You need: [Space Engineers DLC unlocker](https://github.com/Lamer87/Space_Engineers_DLC_unlocker)
 
 ---
 
