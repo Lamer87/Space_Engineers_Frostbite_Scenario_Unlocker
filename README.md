@@ -7,7 +7,7 @@ Compatible with all game versions from **1.194** onwards.
 
 - ***Installation***:
 
-  - Download from here: [MEGA.nz](https://mega.nz/file/3YpzVAgS#mdrQ2Y8Hrh24-sT_ytH38km8kekBj7PByU36CZKIrSw) (15,2mb archive, 96,5mb unpacked)  
+  - Download from here: [MEGA.nz](https://mega.nz/file/3YpzVAgS#mdrQ2Y8Hrh24-sT_ytH38km8kekBj7PByU36CZKIrSw) (15mb archive, 96mb unpacked)  
 
     - Extract the "Content" folder in your game directory.  
 Example: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\
